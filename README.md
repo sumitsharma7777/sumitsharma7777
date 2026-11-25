@@ -31,5 +31,5 @@
 ## Connect With Me
 
 - **GitHub:** https://github.com/sumitsharma7777
-- **LinkedIn:** [Add your LinkedIn profile URL here]
+- **LinkedIn:** https://www.linkedin.com/in/sumit-sharma-0aa379431/
 - **Email:** sumitsharma77705@gmail.com
